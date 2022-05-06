@@ -1,5 +1,6 @@
 import sys
 import time
+import sleep
 
 balancefile = open("balancefile.txt", "w")
 balancefile.write("Tu balance inicial es de $10000.0 \n")
